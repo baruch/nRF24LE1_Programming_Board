@@ -1,0 +1,3 @@
+- On-Off switch, can be shorted to be always on
+- Reset button, either disconnect the power or pull down the nrf reset line
+- Current bridge, a point where current can be measured by disconnecting a jumper
