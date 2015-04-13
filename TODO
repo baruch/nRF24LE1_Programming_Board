@@ -6,3 +6,4 @@
 - Should label the bottom of the board as well
 - BUG: No need to plate the stand holes
 - Remove the unused 10th pin near the reset pin, it is confusing when soldering
+- Widen tracks, they can be wider
