@@ -1,3 +1,8 @@
 - On-Off switch, can be shorted to be always on
 - Reset button, either disconnect the power or pull down the nrf reset line
 - Current bridge, a point where current can be measured by disconnecting a jumper
+- Programming connector is too close to other connectors, makes it hard to connect sometimes
+- Need labels for functions as well as pin numbers to ease hookups
+- Should label the bottom of the board as well
+- BUG: No need to plate the stand holes
+- Remove the unused 10th pin near the reset pin, it is confusing when soldering
